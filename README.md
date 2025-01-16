@@ -39,20 +39,13 @@ Form edit produk disusun dengan baik, memudahkan pengguna untuk memperbarui info
 ## 5. Database di MySQL  
 Struktur database di MySQL dirancang untuk menyimpan data produk, pengguna, dan informasi terkait lainnya secara aman dan terorganisir. Hal ini mendukung kinerja sistem secara optimal.  
 <div align="center">  
-   <img src="https://github.com/user-attachments/assets/656b2618-ddca-4156-9822-663944b0dae9" alt="Database di MySQL" width="600">  
+   <img src="https://github.com/user-attachments/assets/38a391fd-114f-4ab3-a6ab-46489f5c83aa" alt="Database di MySQL" width="600">  
 </div>  
+
 
 ---
 
-## 6. Tampilan Ketika Produk Ada yang di Delete  
-Ketika sebuah produk berhasil dihapus, sistem memberikan konfirmasi visual yang jelas kepada pengguna, memastikan bahwa tindakan telah berhasil dilakukan.  
-<div align="center">  
-   <img src="https://github.com/user-attachments/assets/68a39b73-4bee-4be3-8845-ef2745a7333e" alt="Tampilan Delete Produk" width="600">  
-</div>  
-
----
-
-## 7. Tampilan Pada Halaman Login  
+## 6. Tampilan Pada Halaman Login  
 Halaman login dirancang untuk memudahkan pengguna dalam masuk ke sistem. Desainnya minimalis namun fungsional, memastikan pengalaman pengguna yang nyaman.  
 <div align="center">  
    <img src="https://github.com/user-attachments/assets/2cf1213f-f321-4d07-8145-65cf0de9e0f4" alt="Tampilan Login" width="600">  
@@ -61,7 +54,7 @@ Halaman login dirancang untuk memudahkan pengguna dalam masuk ke sistem. Desainn
 
 ---
 
-## 8. Tampilan Pada Halaman Register  
+## 7. Tampilan Pada Halaman Register  
 Halaman registrasi memungkinkan pengguna baru untuk mendaftar dengan mudah. Antarmuka yang jelas memandu pengguna dalam mengisi data yang diperlukan.  
 <div align="center">  
    <img src="https://github.com/user-attachments/assets/3d533351-5315-46ca-bf7a-0cce40b05fbb" alt="Tampilan Register" width="600">  
@@ -70,7 +63,7 @@ Halaman registrasi memungkinkan pengguna baru untuk mendaftar dengan mudah. Anta
 
 ---
 
-## 9. Tampilan Pada Halaman Laporan (PDF)  
+## 8. Tampilan Pada Halaman Laporan (PDF)  
 Halaman laporan menyediakan ringkasan data yang dapat dilihat dan diunduh dalam format PDF. Fitur ini dirancang untuk memudahkan pengguna dalam mengelola dan mencetak laporan.  
 <div align="center">  
    <img src="https://github.com/user-attachments/assets/9eab07c7-9fec-48e3-99a6-6fb9393ada1b" alt="Tampilan Laporan" width="600">  
