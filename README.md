@@ -64,7 +64,7 @@ Halaman login dirancang untuk memudahkan pengguna dalam masuk ke sistem. Desainn
 ## 8. Tampilan Pada Halaman Register  
 Halaman registrasi memungkinkan pengguna baru untuk mendaftar dengan mudah. Antarmuka yang jelas memandu pengguna dalam mengisi data yang diperlukan.  
 <div align="center">  
-   <img src="https://github.com/user-attachments/assets/fe0ba5e0-97c7-403f-9acf-26df638c2db6!" alt="Tampilan Register" width="600">  
+   <img src="https://github.com/user-attachments/assets/3d533351-5315-46ca-bf7a-0cce40b05fbb" alt="Tampilan Register" width="600">  
 </div>  
 
 
