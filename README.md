@@ -30,8 +30,9 @@ Pengguna dapat menambahkan produk baru dengan mudah melalui antarmuka yang ramah
 ## 4. Tampilan Untuk Edit Produk  
 Form edit produk disusun dengan baik, memudahkan pengguna untuk memperbarui informasi produk dengan cepat. Setiap bagian data produk ditampilkan dengan jelas untuk mengurangi kesalahan input.  
 <div align="center">  
-   <img src="https://github.com/user-attachments/assets/f1bca197-d177-4424-bb1d-9ed8deb9ce52" alt="Tampilan Edit Produk" width="600">  
+   <img src="https://github.com/user-attachments/assets/729f0b7f-90f9-4d2f-9f57-fb03d75511cc" alt="Tampilan Edit Produk" width="600">  
 </div>  
+
 
 ---
 
