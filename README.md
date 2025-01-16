@@ -55,24 +55,27 @@ Ketika sebuah produk berhasil dihapus, sistem memberikan konfirmasi visual yang 
 ## 7. Tampilan Pada Halaman Login  
 Halaman login dirancang untuk memudahkan pengguna dalam masuk ke sistem. Desainnya minimalis namun fungsional, memastikan pengalaman pengguna yang nyaman.  
 <div align="center">  
-   <img src="https://github.com/user-attachments/assets/acf3592e-9683-4064-b7b6-2ee465b33bef" alt="Tampilan Login" width="600">  
+   <img src="https://github.com/user-attachments/assets/2cf1213f-f321-4d07-8145-65cf0de9e0f4" alt="Tampilan Login" width="600">  
 </div>  
+
 
 ---
 
 ## 8. Tampilan Pada Halaman Register  
 Halaman registrasi memungkinkan pengguna baru untuk mendaftar dengan mudah. Antarmuka yang jelas memandu pengguna dalam mengisi data yang diperlukan.  
 <div align="center">  
-   <img src="https://github.com/user-attachments/assets/03c14755-6a0e-4e0e-a103-98497637907a" alt="Tampilan Register" width="600">  
+   <img src="https://github.com/user-attachments/assets/fe0ba5e0-97c7-403f-9acf-26df638c2db6!" alt="Tampilan Register" width="600">  
 </div>  
+
 
 ---
 
 ## 9. Tampilan Pada Halaman Laporan (PDF)  
 Halaman laporan menyediakan ringkasan data yang dapat dilihat dan diunduh dalam format PDF. Fitur ini dirancang untuk memudahkan pengguna dalam mengelola dan mencetak laporan.  
 <div align="center">  
-   <img src="https://github.com/user-attachments/assets/c7919068-b9f4-4922-bfa0-0bc5f11ddb62" alt="Tampilan Laporan" width="600">  
+   <img src="https://github.com/user-attachments/assets/9eab07c7-9fec-48e3-99a6-6fb9393ada1b" alt="Tampilan Laporan" width="600">  
 </div>  
+
 
 
 
