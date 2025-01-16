@@ -3,8 +3,9 @@
 ## 1. Tampilan Pada Menu Homepage  
 Halaman utama dirancang dengan desain yang bersih dan sederhana, memberikan pengalaman navigasi yang intuitif. Pengguna dapat dengan mudah mengakses fitur-fitur utama sistem.  
 <div align="center">  
-   <img src="https://github.com/user-attachments/assets/dd064d79-3743-41ac-9402-570a970559c2" alt="Tampilan Homepage" width="600">  
+   <img src="https://github.com/user-attachments/assets/36d02b64-f314-43da-ab5e-54fd8c7d8755" alt="Tampilan Homepage" width="600">  
 </div>  
+
 
 ---
 
