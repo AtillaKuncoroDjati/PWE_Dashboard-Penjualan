@@ -21,8 +21,9 @@ Halaman produk menampilkan daftar lengkap produk yang tersedia. Setiap produk di
 ## 3. Tampilan Pada Add Produk  
 Pengguna dapat menambahkan produk baru dengan mudah melalui antarmuka yang ramah pengguna. Semua elemen dalam form penambahan produk dirancang agar proses ini menjadi cepat dan efisien.  
 <div align="center">  
-   <img src="https://github.com/user-attachments/assets/1ed6ad95-07b9-4f5c-ba51-1002d3082734" alt="Tampilan Add Produk" width="600">  
+   <img src="https://github.com/user-attachments/assets/cd5ec697-6fca-4c71-a38b-2e9eeb0b5604" alt="Tampilan Add Produk" width="600">  
 </div>  
+
 
 ---
 
