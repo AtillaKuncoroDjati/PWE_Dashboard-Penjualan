@@ -12,8 +12,9 @@ Halaman utama dirancang dengan desain yang bersih dan sederhana, memberikan peng
 ## 2. Tampilan Pada Menu Produk  
 Halaman produk menampilkan daftar lengkap produk yang tersedia. Setiap produk disertai detail yang informatif, sehingga memudahkan pengguna untuk melihat, mengelola, dan memproses data produk.  
 <div align="center">  
-   <img src="https://github.com/user-attachments/assets/481eaff4-cc56-472d-a4ab-07f19a38237f" alt="Tampilan Produk" width="600">  
+   <img src="https://github.com/user-attachments/assets/6193e3d7-ccf8-4084-b3bf-6a7f28abcd4c" alt="Tampilan Produk" width="600">  
 </div>  
+
 
 ---
 
